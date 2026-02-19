@@ -1,0 +1,122 @@
+[
+  {
+    "id": "txn_seed_001",
+    "description": "Lunch at cafeteria",
+    "amount": 12.50,
+    "category": "Food",
+    "date": "2025-09-25",
+    "notes": "Pasta special",
+    "createdAt": "2025-09-25T12:00:00.000Z",
+    "updatedAt": "2025-09-25T12:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_002",
+    "description": "Textbook purchase",
+    "amount": 89.99,
+    "category": "Books",
+    "date": "2025-09-23",
+    "notes": "",
+    "createdAt": "2025-09-23T09:00:00.000Z",
+    "updatedAt": "2025-09-23T09:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_003",
+    "description": "Monthly bus pass",
+    "amount": 45.00,
+    "category": "Transport",
+    "date": "2025-09-01",
+    "notes": "",
+    "createdAt": "2025-09-01T08:00:00.000Z",
+    "updatedAt": "2025-09-01T08:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_004",
+    "description": "Coffee with friends",
+    "amount": 8.75,
+    "category": "Entertainment",
+    "date": "2025-09-28",
+    "notes": "Campus cafe",
+    "createdAt": "2025-09-28T15:00:00.000Z",
+    "updatedAt": "2025-09-28T15:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_005",
+    "description": "Library late fee",
+    "amount": 2.50,
+    "category": "Fees",
+    "date": "2025-09-15",
+    "notes": "Overdue books",
+    "createdAt": "2025-09-15T10:00:00.000Z",
+    "updatedAt": "2025-09-15T10:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_006",
+    "description": "Grocery shopping",
+    "amount": 37.80,
+    "category": "Food",
+    "date": "2025-09-22",
+    "notes": "Weekly groceries",
+    "createdAt": "2025-09-22T18:00:00.000Z",
+    "updatedAt": "2025-09-22T18:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_007",
+    "description": "Uber ride home",
+    "amount": 14.25,
+    "category": "Transport",
+    "date": "2025-09-27",
+    "notes": "Late night",
+    "createdAt": "2025-09-27T23:00:00.000Z",
+    "updatedAt": "2025-09-27T23:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_008",
+    "description": "Netflix subscription",
+    "amount": 15.99,
+    "category": "Entertainment",
+    "date": "2025-09-10",
+    "notes": "",
+    "createdAt": "2025-09-10T00:00:00.000Z",
+    "updatedAt": "2025-09-10T00:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_009",
+    "description": "Tuition payment",
+    "amount": 1500.00,
+    "category": "Fees",
+    "date": "2025-09-03",
+    "notes": "Fall semester",
+    "createdAt": "2025-09-03T09:00:00.000Z",
+    "updatedAt": "2025-09-03T09:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_010",
+    "description": "Physics lab manual",
+    "amount": 0.99,
+    "category": "Books",
+    "date": "2025-09-29",
+    "notes": "PDF edition",
+    "createdAt": "2025-09-29T11:00:00.000Z",
+    "updatedAt": "2025-09-29T11:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_011",
+    "description": "Printer ink cartridge",
+    "amount": 22.49,
+    "category": "Other",
+    "date": "2025-09-18",
+    "notes": "HP ink",
+    "createdAt": "2025-09-18T14:00:00.000Z",
+    "updatedAt": "2025-09-18T14:00:00.000Z"
+  },
+  {
+    "id": "txn_seed_012",
+    "description": "Tea at student union",
+    "amount": 3.50,
+    "category": "Food",
+    "date": "2025-09-26",
+    "notes": "Herbal tea",
+    "createdAt": "2025-09-26T10:00:00.000Z",
+    "updatedAt": "2025-09-26T10:00:00.000Z"
+  }
+]
